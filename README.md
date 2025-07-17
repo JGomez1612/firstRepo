@@ -15,4 +15,4 @@
 # Making a git commit to GitHub:
 - ```git add.``` - stages current state of project, to be committed (git add all)
 - ```git commit -m "your message here``` - create a message for that specific version of your project
-- ```git push origin``` - pushes your commits to the branch(main or master)to GitHub.
+- ```git push origin``` - pushes your commits to the branch(main or master)on GitHub.
